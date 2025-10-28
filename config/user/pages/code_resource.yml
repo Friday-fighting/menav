@@ -1,0 +1,45 @@
+title: "我的技术资源"          # 页面标题
+subtitle: "技术资源"  # 页面副标题
+categories:
+  - name: "技术资源"
+    icon: "fas fa-laptop-code"
+    subcategories:
+      - name: "前端开发"
+        icon: "fas fa-code"
+        groups:
+          - name: "框架库"
+            icon: "fas fa-cube"
+            sites:
+              - name: "React"
+                url: "https://reactjs.org/"
+                icon: "fab fa-react"
+                description: "React官方文档"
+              - name: "Vue.js"
+                url: "https://vuejs.org/"
+                icon: "fab fa-vuejs"
+                description: "Vue.js官方文档"
+          - name: "状态管理"
+            icon: "fas fa-database"
+            sites:
+              - name: "Redux"
+                url: "https://redux.js.org/"
+                icon: "fas fa-database"
+                description: "Redux状态管理"
+              - name: "Vuex"
+                url: "https://vuex.vuejs.org/"
+                icon: "fas fa-database"
+                description: "Vue状态管理"
+      - name: "后端开发"
+        icon: "fas fa-server"
+        groups:
+          - name: "Node.js生态"
+            icon: "fab fa-node-js"
+            sites:
+              - name: "Express"
+                url: "https://expressjs.com/"
+                icon: "fas fa-server"
+                description: "Node.js Web框架"
+              - name: "Koa"
+                url: "https://koajs.com/"
+                icon: "fas fa-leaf"
+                description: "下一代Node.js框架"
