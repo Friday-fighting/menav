@@ -11,4 +11,8 @@
   icon: "fas fa-book"
   id: "articles"
   active: false
+- name: "笔记"
+  icon: "fas fa-sticky-note"
+  id: "notes"
+  active: false
 # 更多导航项...

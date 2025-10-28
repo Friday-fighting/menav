@@ -1,0 +1,11 @@
+title: "我的笔记收藏"          # 页面标题
+subtitle: "学习和工作笔记资源"  # 页面副标题
+categories:                   # 该页面的分类和网站
+  - name: "编程笔记"
+    icon: "fas fa-code"
+    sites:
+      - name: "Python学习笔记"
+        url: "https://example.com/python-notes"
+        icon: "fab fa-python"
+        description: "Python编程技巧和案例"
+      # 更多网站...
